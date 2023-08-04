@@ -1,0 +1,15 @@
+{
+    "name": "clock",
+    "version": "1.0.0",
+    "description": "Landing page of clock web app",
+    "main": "index.js",
+    "scripts": {
+        "compile:scss": "node-sass sass/main.scss css/styles.css --watch"
+    },
+    "author": "kushagr singh",
+    "license": "ISC",
+    "dependencies": {
+        "node-sass": "^9.0.0",
+        "sass": "^1.64.2"
+    }
+}
